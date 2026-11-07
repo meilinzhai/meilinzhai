@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 2nd-year **Computer Engineering** student at the **University of Alberta**
+- 🎓 3rd-year **Computer Engineering** student at the **University of Alberta**
 - ⚡ Passionate about **embedded software**, **firmware**, **hardware**, **microcontrollers**, and **Battery Management Systems (BMS)**
 - 📍 Based in Edmonton, Canada 🇨🇦
 - ✉️ meilinzhai@gmail.com
